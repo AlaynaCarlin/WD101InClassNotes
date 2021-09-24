@@ -81,7 +81,7 @@ let shoppingList = ['celery', 'limes', 'lemon', 'grenadine', 'oranges'];
 shoppingList.pop();
 console.log(shoppingList);
 
-//array.unshift() -> adda a new element at the beginning of the array
+//array.unshift() -> add a new element at the beginning of the array
 let shoppingList = ['celery', 'limes', 'lemon', 'grenadine', 'oranges'];
 shoppingList.unshift('salt');
 console.log(shoppingList);
